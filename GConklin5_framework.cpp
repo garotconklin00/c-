@@ -2,6 +2,8 @@
 #include<iomanip>
 using namespace std;
 
+// new comment
+
 const double ECONOMY_RATE = 60.00;
 const double FULL_SIZE_RATE = 65.00;
 const double LUXURY_RATE = 125.00;
